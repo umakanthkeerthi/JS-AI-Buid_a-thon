@@ -1,0 +1,24 @@
+{
+  "name": "js-ai-buid_a-thon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umakanthkeerthi/JS-AI-Buid_a-thon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umakanthkeerthi/JS-AI-Buid_a-thon/issues"
+  },
+  "homepage": "https://github.com/umakanthkeerthi/JS-AI-Buid_a-thon#readme",
+  "description": "",
+  "dependencies": {
+    "@azure-rest/ai-inference": "^1.0.0-beta.6",
+    "express": "^5.1.0"
+  }
+}
